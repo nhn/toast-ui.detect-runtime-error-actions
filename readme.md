@@ -4,6 +4,8 @@
 
 [![GitHub release](https://img.shields.io/github/release/nhn/toast-ui.detect-runtime-error-actions.svg)](https://github.com/nhn/toast-ui.detect-runtime-error-actions/releases/latest) [![GitHub license](https://img.shields.io/github/license/nhn/tui.chart.svg)](https://github.com/nhn/tui.chart/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/nhn/tui.chart/pulls) [![code with hearth by NHN](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-NHN-ff1414.svg)](https://github.com/nhn)
 
+![image](https://user-images.githubusercontent.com/35371660/78745292-a3e97080-799e-11ea-9fe5-938053e98bdd.png)
+
 ## 💾 How to use
 
 ### Setting
