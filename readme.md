@@ -8,7 +8,7 @@
 
 ## 💾 How to use
 
-### Setting
+### Settings
 
 1. Add a global variable to the page you want to test. (If you use `tuidoc`, you don't need to add a variable.) Remember the variable name used here!
 
