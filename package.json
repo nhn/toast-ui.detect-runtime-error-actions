@@ -1,0 +1,22 @@
+{
+  "name": "toast-ui.detect-runtime-error-actions",
+  "version": "1.0.0",
+  "description": "TOAST UI Github Actions: detect runtime error actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nhn",
+    "tui",
+    "toastui"
+  ],
+  "author": "NHN FE Development Lab <dl_javascript@nhn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1",
+    "prettier": "^2.0.4",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
