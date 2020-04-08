@@ -1,4 +1,4 @@
-name: 'TOAST UI Checking url error using browserstack'
+name: 'TOAST UI: Detect Runtime Error Actions'
 description: 'Checking url error using browserstack'
 inputs:
   urls:
