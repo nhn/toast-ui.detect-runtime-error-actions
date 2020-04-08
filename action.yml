@@ -1,0 +1,17 @@
+name: 'TOAST UI Checking url error using browserstack'
+description: 'Checking url error using browserstack'
+inputs:
+  urls:
+    description: 'urls'
+    required: true
+  global-error-log-variable:
+    description: 'error log array variable name(ex: errorLogs)'
+    required: true
+    default: 'errorLogs'
+  browserlist:
+    description: 'browser list'
+    required: true
+    default: 'ie10, ie11, safari, edge, chrome, firefox'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
