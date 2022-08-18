@@ -14,7 +14,7 @@
   "author": "NHN FE Development Lab <dl_javascript@nhn.com>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.1.1",
     "prettier": "^2.0.4",
     "selenium-webdriver": "^4.0.0-alpha.7"
